@@ -1,0 +1,1 @@
+{"uuid":"150dcba1-4fe7-4c73-88d0-324e0e04f375","name":"tugasAutomation.Tugas.WebDriverInit.tearDown","description":"","start":1653904309258,"stop":1653904310270,"children":["e4891ebd-e2a6-43f0-8a50-ec126dde07cf"],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","start":1653904309259,"stop":1653904310270}]}

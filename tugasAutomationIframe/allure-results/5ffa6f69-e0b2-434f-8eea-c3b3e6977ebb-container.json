@@ -1,0 +1,1 @@
+{"uuid":"5ffa6f69-e0b2-434f-8eea-c3b3e6977ebb","name":"tugasAutomation.Tugas.WebDriverInit.setUp","description":"","start":1653621441742,"stop":1653621448860,"children":["f1e09ad5-0bd5-40d5-8f3f-ac36e7a8da1e"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1653621441743,"stop":1653621448858}]}

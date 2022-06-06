@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Suite" parallel="methods">
+  <test thread-count="2" name="Test" parallel="methods">
+    <classes>
+      <class name="tugasAutomation.Tugas.LoginPageTest"/>
+       <class name="tugasAutomation.Tugas.CartTest"/>
+        <class name="tugasAutomation.Tugas.BuyProductTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

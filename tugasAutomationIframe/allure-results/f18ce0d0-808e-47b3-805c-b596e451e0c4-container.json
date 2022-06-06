@@ -1,0 +1,1 @@
+{"uuid":"f18ce0d0-808e-47b3-805c-b596e451e0c4","name":"tugasAutomation.Tugas.BaseWebTest.setUp","description":"","start":1653317920955,"stop":1653317932533,"children":["39c33ceb-af28-4806-bf67-b65c61e77172"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1653317920956,"stop":1653317932533}]}
