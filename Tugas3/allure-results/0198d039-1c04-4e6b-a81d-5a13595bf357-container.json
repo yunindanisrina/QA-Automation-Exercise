@@ -1,1 +1,0 @@
-{"uuid":"0198d039-1c04-4e6b-a81d-5a13595bf357","name":"qaautomation.may2022.BaseWebTest.setUp","description":"","start":1653204840975,"stop":1653204852209,"children":["e267094c-46eb-45ec-8afc-45c23653eb22"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1653204840975,"stop":1653204852208}]}
