@@ -11,4 +11,4 @@ Tugas ini berisi tentang:
 
 Tugas ini berisi tentang:
 - Membuat kalkulator dengan operasi perkalian, pembagian, penjumlahan, dan pengurangan serta menggunakan fungsi Try Catch. Pada Tugas 2 ini konsep OOP pada java
-- Path tugas tersebut berada di [Tugas 2 (https://github.com/yunindanisrina/QA-Automation-Exercise/tree/master/Tugas%202/src/Kalkulator)]
+- Path tugas tersebut berada di 
