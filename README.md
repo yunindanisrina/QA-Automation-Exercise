@@ -30,4 +30,4 @@ Tugas ini berisi tentang:
 
 Tugas ini berisi tentang:
 - Melakukan automation testing dengan menggunakan Faker untuk mengenertae username dan email. Hasil yang diharapkan dari testing ini jika terdapat data yang telah terigistrasi atau terdaftar maka akan menampilkan status code 201
-- Path tugas tersebut berada di [tugasFaker]
+- Path tugas tersebut berada di [tugasFaker](https://github.com/yunindanisrina/QA-Automation-Exercise/tree/master/tugasFaker/src)
